@@ -1,2 +1,0 @@
-# spreadsheet-humanities
-Spreadsheet humanities
